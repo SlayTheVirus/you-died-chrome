@@ -1,1 +1,1 @@
-# ** You Died ** * for Google Chrome *
+# You Died for Google Chrome
